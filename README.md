@@ -1,0 +1,1 @@
+# Tek_Sayi_Toplam
